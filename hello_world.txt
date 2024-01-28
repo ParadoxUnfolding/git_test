@@ -1,0 +1,3 @@
+learn git 
+use git 
+do you git it now?
